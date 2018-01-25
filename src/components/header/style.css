@@ -2,7 +2,7 @@
  * @Author: command
  * @Date: 2018-01-25 17:44:46 
  * @Last Modified by: commad
- * @Last Modified time: 2018-01-25 18:48:28
+ * @Last Modified time: 2018-01-25 19:11:19
  */
 #header {
   height: 6.4rem;
@@ -35,4 +35,5 @@
   right: 3.2rem;
   align-self: center;
   cursor: pointer;
+  border-radius: 2rem;
 }
