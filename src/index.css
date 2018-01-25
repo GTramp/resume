@@ -6,6 +6,9 @@ body {
   align-self: center;
   background-image: url('./assets/resume_background.jpg');
   background-size: 100% auto;
+  height: 100%;
+  border-left: 0.1rem solid darkcyan;
+  border-right: 0.1rem solid darkcyan;
 }
 
 html {
@@ -13,4 +16,8 @@ html {
   height: 100%;
   width: 100%;
   min-width: 1080px;
+}
+
+#root {
+  height: 100%;
 }
